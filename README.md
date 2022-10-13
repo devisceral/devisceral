@@ -1,4 +1,3 @@
-<img align="right" height="590em" src=""/>
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm André Mendes</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devisceral&color=yellow" alt="Profile views" /> </p>
 
@@ -11,8 +10,6 @@
 - ⚡ Fun fact **Crazy about Bloodborne😜**
 
 - 👨‍💻 More at [devisceral.surge.sh](https://devisceral.surge.sh)
-
-<!--
 
 <br><br>
 
@@ -45,7 +42,6 @@
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=devisceral&show_icons=true&theme=vision-friendly-dark" alt="André stats"/>
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devisceral&layout=compact&theme=vision-friendly-dark" alt="André most languages"/>
 </p>
--->
 
 <br><br>
 
