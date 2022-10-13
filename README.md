@@ -9,7 +9,7 @@
 
 - ⚡ Fun fact **Crazy about Bloodborne😜**
 
-- 👨‍💻 More at [devisceral.surge.sh](https://devisceral.surge.sh)
+- 👨‍💻 More at [andremendes.surge.sh](https://andremendes.surge.sh)
 
 <br><br>
 
