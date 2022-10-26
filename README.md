@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working at my own House
 
-- 💬 Ask me about **JavaScript, HTML, CSS, SQL, Node.JS**
+- 💬 Ask me about **JavaScript, Java, Node.JS**
 
 - ⚡ Fun fact **Crazy about Bloodborne😜**
 
