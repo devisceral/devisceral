@@ -55,3 +55,5 @@
   <img align="center" src="https://img.shields.io/badge/-develmendes-05122A?style=flat&logo=twitter" alt="twitter"/>  
 </a>
 </p>
+
+![Snake animation](https://github.com/devisceral/devisceral/blob/output/github-contribution-grid-snake.svg)
