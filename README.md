@@ -58,9 +58,9 @@
 
 ##
 <div align="center">
-  <a href="https://github.com/alineguiseline">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=alineguiseline&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alineguiseline&layout=compact&langs_count=7&theme=tokyonight"/>
+  <a href="https://github.com/devisceral">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=devisceral&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devisceral&layout=compact&langs_count=7&theme=tokyonight"/>
  
-   ![Snake animation](https://github.com/alineguiseline/alineguiseline/blob/output/github-contribution-grid-snake.svg)
+   ![Snake animation](https://github.com/devisceral/devisceral/blob/output/github-contribution-grid-snake.svg)
   </div> 
