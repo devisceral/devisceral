@@ -53,4 +53,5 @@
 </p>
 
 <br>
+
 ![snake gif](https://github.com/devisceral/devisceral/blob/output/github-contribution-grid-snake.svg)
