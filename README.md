@@ -1,4 +1,13 @@
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm André Mendes</h1>
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm André Mendes
+<p align="left" style="background:yellow">
+<a href="https://www.linkedin.com/in/develmendes/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-develmendes-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
+<a href="https://twitter.com/develmendes" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-develmendes-05122A?style=flat&logo=twitter" alt="twitter"/>  
+</a>
+</p>
+</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devisceral&color=yellow" alt="Profile views" /> </p>
 
 - 🔥 Web Developer 
@@ -43,17 +52,5 @@
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devisceral&layout=compact&theme=vision-friendly-dark" alt="André most languages"/>
 </p>
 
-<br><br>
-
-## Contact
-
-<p align="left" style="background:yellow">
-<a href="https://www.linkedin.com/in/develmendes/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-develmendes-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
-<a href="https://twitter.com/develmendes" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-develmendes-05122A?style=flat&logo=twitter" alt="twitter"/>  
-</a>
-</p>
-
+<br>
 ![snake gif](https://github.com/devisceral/devisceral/blob/output/github-contribution-grid-snake.svg)
