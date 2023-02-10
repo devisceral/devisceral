@@ -18,7 +18,7 @@
 
 - ⚡ Fun fact **Crazy about Bloodborne😜**
 
-- 👨‍💻 More at <a href="https://andremendes.vercel.app/" target="_blank">andremendes.vercel.app</a>
+- 👨‍💻 More at <a href="https://andremendes.vercel.app/" target="#">andremendes.vercel.app</a>
 
 <br><br>
 
