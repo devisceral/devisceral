@@ -10,11 +10,11 @@
 </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devisceral&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 Web Developer 
+- 🔥 Desenvolvedor Java @Wise Companies| Dev Full Stack
 
 - 🔭 I’m currently working at my own House
 
-- 💬 Ask me about **JavaScript, Java, Node.JS**
+- 💬 Ask me about **Java, Java Script, Node.JS**
 
 - ⚡ Fun fact **Crazy about Bloodborne😜**
 
