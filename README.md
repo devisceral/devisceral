@@ -23,25 +23,14 @@
 <br><br>
 
 ## 🛠 &nbsp;Tech Stack
-
-![HTML](https://xesque.rocketseat.dev/platform/tech/html5.svg)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap)&nbsp;
-![SASS](https://img.shields.io/badge/-SASS-05122A?style=flat&logo=sass)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Jquery](https://img.shields.io/badge/-jQuery-05122A?style=flat&logo=jquery)&nbsp;
-![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Vuejs](https://img.shields.io/badge/-Vue.js-05122A?style=flat&logo=vue.js)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
-![Mongodb](https://img.shields.io/badge/-Mongodb-05122A?style=flat&logo=mongodb)&nbsp;
-![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-
+![JAVA](https://xesque.rocketseat.dev/platform/tech/java.svg)&nbsp;
+![Node](https://xesque.rocketseat.dev/platform/tech/node.svg)&nbsp;
+![React](https://xesque.rocketseat.dev/platform/tech/reactjs.svg)&nbsp;
+![Postgre](https://xesque.rocketseat.dev/platform/tech/postgresql.svg)&nbsp;
+![Mysql](https://xesque.rocketseat.dev/platform/tech/mysql.svg)&nbsp;
+![Gitlab](https://xesque.rocketseat.dev/platform/tech/gitlab-ci.svg)&nbsp;
+![Git](https://xesque.rocketseat.dev/platform/tech/git.svg)&nbsp;
+![Mongo](https://xesque.rocketseat.dev/platform/tech/mongodb.svg)&nbsp;
 
 <br><br>
 
