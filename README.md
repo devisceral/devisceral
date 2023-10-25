@@ -18,7 +18,7 @@
 
 - ⚡ Fun fact **Crazy about Bloodborne😜**
 
-- 👨‍💻 More at <a href="https://andremendes.vercel.app/" target="#">andremendes.vercel.app</a>
+- 👨‍💻 More at <a href="https://www.linkedin.com/in/develmendes/" target="#">https://www.linkedin.com/in/develmendes/</a>
 
 <br><br>
 
@@ -28,19 +28,17 @@
 ![React](https://xesque.rocketseat.dev/platform/tech/reactjs.svg)&nbsp;
 ![Postgre](https://xesque.rocketseat.dev/platform/tech/postgresql.svg)&nbsp;
 ![Mysql](https://xesque.rocketseat.dev/platform/tech/mysql.svg)&nbsp;
+![Mongo](https://xesque.rocketseat.dev/platform/tech/mongodb.svg)&nbsp;
 ![Gitlab](https://xesque.rocketseat.dev/platform/tech/gitlab-ci.svg)&nbsp;
 ![Git](https://xesque.rocketseat.dev/platform/tech/git.svg)&nbsp;
-![Mongo](https://xesque.rocketseat.dev/platform/tech/mongodb.svg)&nbsp;
+
 
 <br><br>
 
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=devisceral&show_icons=true&theme=vision-friendly-dark" alt="André stats"/>
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devisceral&layout=compact&theme=vision-friendly-dark" alt="André most languages"/>
 </p>
 
 <br>
-
-![snake gif](https://github.com/devisceral/devisceral/blob/output/github-contribution-grid-snake.svg)
