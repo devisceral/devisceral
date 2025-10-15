@@ -10,13 +10,7 @@
 </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devisceral&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 Desenvolvedor Java @Revuelto IT| Web Full Stack
-
-- 🔭 I’m currently working at my own House
-
-- 💬 Ask me about **Java, Java Script, Node.JS**
-
-- ⚡ Fun fact **Crazy about Bloodborne😜**
+- 🔥 Desenvolvedor de Software Python | FastAPI | Java | Springboot
 
 - 👨‍💻 More at <a href="https://www.linkedin.com/in/develmendes/" target="#">https://www.linkedin.com/in/develmendes/</a>
 
@@ -24,15 +18,15 @@
 
 ## 🛠 &nbsp;Tech Stack
 ![JAVA](https://xesque.rocketseat.dev/platform/tech/java.svg)&nbsp;
+![PYTHON](https://xesque.rocketseat.dev/platform/tech/python.svg)&nbsp;
 ![Node](https://xesque.rocketseat.dev/platform/tech/node.svg)&nbsp;
 ![React](https://xesque.rocketseat.dev/platform/tech/reactjs.svg)&nbsp;
+![Flutter](https://xesque.rocketseat.dev/platform/tech/flutter.svg)&nbsp;
 ![Postgre](https://xesque.rocketseat.dev/platform/tech/postgresql.svg)&nbsp;
 ![Mysql](https://xesque.rocketseat.dev/platform/tech/mysql.svg)&nbsp;
 ![Mongo](https://xesque.rocketseat.dev/platform/tech/mongodb.svg)&nbsp;
 ![Gitlab](https://xesque.rocketseat.dev/platform/tech/gitlab-ci.svg)&nbsp;
 ![Git](https://xesque.rocketseat.dev/platform/tech/git.svg)&nbsp;
-
-
 <br><br>
 
 ## ⚙️ &nbsp;GitHub Analytics
