@@ -1,6 +1,6 @@
 <h1 align="center">André Mendes</h1>
 <a>
-    <h2 align="center" href="https://andremendeslinks.vercel.app/" target="_blank" title="André Mendes Links">@andrelvmendes</h2>
+    <h2 align="center" title="André Mendes Links"><a href="https://andremendeslinks.vercel.app/" target="_blank">@andrelvmendes</a></h2>
 </a>
 <p align="center"><strong>Full Stack Developer • Backend & APIs</strong></p>
 
